@@ -193,57 +193,6 @@ function LandingPage() {
           </div>
         </article>
         <article className="project-row">
-          <div className="project-art yard-art">
-            <span className="yard-orb">Y</span>
-            <span className="yard-sun" />
-            <div className="yard-panel">
-              <div>
-                <b>Yard Control</b>
-                <small>Live status</small>
-              </div>
-              <h4>Container placement and yard activity</h4>
-              <div className="yard-feature">
-                <i />
-                Real-time operational visibility
-                <small>
-                  Monitor placement, movement, load status, and maintenance
-                  information from anywhere.
-                </small>
-              </div>
-              <p>
-                01　 Loaded containers <span>LIVE</span>
-              </p>
-              <p>
-                02　 Empty &amp; maintenance <span>LIVE</span>
-              </p>
-            </div>
-            <span className="yard-orb-small" />
-            <span className="art-arrow">↗</span>
-          </div>
-          <div className="project-copy">
-            <div className="project-title">
-              <small>02</small>
-              <div>
-                <h3>Yard Management</h3>
-                <p>Remote operations platform</p>
-              </div>
-              <small>2025</small>
-            </div>
-            <div className="project-description">
-              <p>
-                A cloud-accessible monitoring system with real-time container
-                tracking, status visibility, and a 3D yard visualization module.
-              </p>
-              <div className="tags">
-                <span>REACT</span>
-                <span>.NET MVC</span>
-                <span>ORACLE SQL</span>
-                <span>REST APIS</span>
-              </div>
-            </div>
-          </div>
-        </article>
-        <article className="project-row">
           <div className="project-art food-art">
             <span className="food-word">
               hungry
@@ -271,7 +220,7 @@ function LandingPage() {
           </div>
           <div className="project-copy">
             <div className="project-title">
-              <small>03</small>
+              <small>02</small>
               <div>
                 <h3>HungryHeart</h3>
                 <p>Full-stack e-commerce</p>

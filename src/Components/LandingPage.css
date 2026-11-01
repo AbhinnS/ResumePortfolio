@@ -645,98 +645,6 @@ a {
     8px "DM Mono",
     monospace;
 }
-.yard-art {
-  background: #d8ccff;
-}
-.yard-orb {
-  position: absolute;
-  left: 7%;
-  top: 9%;
-  width: 100px;
-  height: 100px;
-  display: grid;
-  place-items: center;
-  border-radius: 50%;
-  background: #21183c;
-  color: #d5aaff;
-  font-size: 36px;
-  box-shadow: 13px 12px #b798f7;
-}
-.yard-sun {
-  position: absolute;
-  right: 13%;
-  top: 7%;
-  width: 130px;
-  height: 130px;
-  border-radius: 50%;
-  background: #ffe267;
-}
-.yard-panel {
-  z-index: 1;
-  width: 48%;
-  min-width: 260px;
-  padding: 27px;
-  background: #faf8ff;
-  color: #21183c;
-  box-shadow: 0 20px 50px #5a478233;
-}
-.yard-panel > div:first-child {
-  display: flex;
-  justify-content: space-between;
-  border-bottom: 1px solid #e2ddea;
-  padding-bottom: 15px;
-  font-size: 12px;
-}
-.yard-panel > div:first-child small {
-  border-radius: 15px;
-  padding: 5px 10px;
-  background: #21183c;
-  color: white;
-  font-size: 7px;
-}
-.yard-panel h4 {
-  font-size: 20px;
-  line-height: 1.3;
-  font-weight: 500;
-  margin: 22px 0;
-}
-.yard-feature {
-  background: #eee6ff;
-  padding: 16px;
-  font-size: 9px;
-}
-.yard-feature i {
-  width: 14px;
-  height: 14px;
-  background: #7050ca;
-  border-radius: 50%;
-  display: inline-block;
-  vertical-align: middle;
-  margin-right: 10px;
-}
-.yard-feature small {
-  display: block;
-  color: #716b7e;
-  margin: 10px 0 0 24px;
-  line-height: 1.5;
-}
-.yard-panel > p {
-  padding: 12px 0;
-  border-bottom: 1px solid #e2ddea;
-  font-size: 8px;
-}
-.yard-panel > p span {
-  float: right;
-}
-.yard-orb-small {
-  position: absolute;
-  left: 15%;
-  bottom: 12%;
-  width: 90px;
-  height: 90px;
-  border-radius: 50%;
-  background: #b798f7;
-}
 .food-art {
   background: #fb5937;
 }
@@ -1097,13 +1005,6 @@ a {
   }
   .dash-cards strong {
     font-size: 16px;
-  }
-  .yard-panel {
-    transform: scale(0.82);
-  }
-  .yard-sun {
-    width: 85px;
-    height: 85px;
   }
   .food-word {
     font-size: 75px;
